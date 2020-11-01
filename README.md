@@ -1,2 +1,1 @@
 # angularTuto
-tutorial Angular
